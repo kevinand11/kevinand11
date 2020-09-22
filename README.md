@@ -8,4 +8,5 @@
 - 📫 How to reach me: kevinfizu@gmail.com...
 - 😄 Pronouns: He
 
-[i[Kevin's Github stats](https://github-Readme-stats.vercel.app?username=kevinand11)](https:// github.com/anuraghazra/github-readme-stats)
+
+[![Kevinand11's github stats](https://github-readme-stats.vercel.app/api?username=kevinand11)](https://github.com/anuraghazra/github-readme-stats)
