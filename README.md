@@ -9,4 +9,5 @@
 - 😄 Pronouns: He
 
 
-[![Kevinand11's github stats](https://github-readme-stats.vercel.app/api?username=kevinand11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's Github stats](https://github-readme-stats.vercel.app/api?username=kevinand11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinand11)](https://github.com/anuraghazra/github-readme-stats)
