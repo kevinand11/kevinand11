@@ -22,6 +22,7 @@
 <br> 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kevinand11&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinand11&show_icons=true&theme=tokyonight" />
  <a href="https://github.com/usblankson/github-readme-activity-graph"><img alt="Kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kevinand11&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
  
